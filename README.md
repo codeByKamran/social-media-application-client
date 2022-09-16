@@ -2,11 +2,11 @@
 
 Clone Frontend by running:
 
-`git clone https://github.com/codeByKamran/social-media-app-client.git`
+`git clone https://github.com/codeByKamran/social-media-application-client.git`
 
 Clone Backend by running:
 
-`git clone https://github.com/codeByKamran/social-media-app-server.git`
+`git clone https://github.com/codeByKamran/social-media-application-server.git`
 
 # Step 2 - Install dependencies
 
